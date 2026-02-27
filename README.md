@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fuuz.com/logo.png" alt="Fuuz Logo" width="200"/>
+  <img src="https://images.squarespace-cdn.com/content/v1/67dc7fc1a7db8c516a2366f2/8c9f0a41-c61a-466c-942f-176ff1eebae6/Logo_A.png?format=1500w" alt="Fuuz Logo" width="200"/>
 </p>
 
 <h1 align="center">Fuuz Industrial Intelligence Platform</h1>
