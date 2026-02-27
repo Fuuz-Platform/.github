@@ -410,7 +410,7 @@ Good documentation is just as important as good code. When contributing:
 
 - **GitHub Issues** — For bug reports, feature requests, and public discussion
 - **GitHub Discussions** — For questions, ideas, and general conversation (if enabled on the repo)
-- **Fuuz Documentation** — [fuuz.com/docs](https://fuuz.com/docs)
+- **Fuuz Documentation** — [fuuz.com/docs](https://support.fuuz.com)
 - **Website** — [fuuz.com](https://fuuz.com)
 
 ---
