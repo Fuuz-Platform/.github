@@ -10,8 +10,9 @@
 
 <p align="center">
   <a href="https://fuuz.com">Website</a> •
-  <a href="https://fuuz.com/docs">Documentation</a> •
-  <a href="https://fuuz.com/contact">Contact Us</a>
+  <a href="https://support.fuuz.com">Documentation</a> •
+  <a href="https://academy.fuuz.com">Academy</a> •
+  <a href="https://www.fuuz.com/contact-us">Contact Us</a>
 </p>
 
 ---
