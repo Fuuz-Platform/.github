@@ -1,6 +1,6 @@
 # Contributing to Fuuz
 
-Thank you for your interest in contributing to the Fuuz Industrial Intelligence Platform. Whether you're fixing a bug, improving documentation, or proposing a new feature, we appreciate your time and effort.
+Thank you for your interest in contributing to the Fuuz Enterprise Industrial Operations Platform. Whether you're fixing a bug, improving documentation, or proposing a new feature, we appreciate your time and effort.
 
 This guide will help you get started.
 
