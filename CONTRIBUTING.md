@@ -428,6 +428,6 @@ If anything in this guide is unclear, open an issue with the `question` label or
 ---
 
 <p align="center">
-  <strong>Thank you for helping build the future of industrial intelligence.</strong><br/>
+  <strong>Thank you for helping build the future of industrial operations.</strong><br/>
   <a href="https://fuuz.com">fuuz.com</a>
 </p>
